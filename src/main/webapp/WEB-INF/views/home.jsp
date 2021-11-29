@@ -7,6 +7,9 @@
 <body>
 <h1>
 Spring Java Project fighting
+Good Morning
+Good Afternoon
+Good Night
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
