@@ -1,0 +1,11 @@
+diff a/src/main/webapp/WEB-INF/views/home.jsp b/src/main/webapp/WEB-INF/views/home.jsp	(rejected hunks)
+@@ -7,6 +7,9 @@
+ <body>
+ <h1>
+ Spring Java Project fighting
++Good Morning
++Good Afternoon
++Good Night
+ </h1>
+ 
+ <P>  The time on the server is ${serverTime}. </P>
